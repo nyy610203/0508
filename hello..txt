@@ -1,5 +1,8 @@
 hello
 world
 update by nyy2
+<<<<<<< HEAD
 update by autor
 update by local
+update by author
+update by remote
